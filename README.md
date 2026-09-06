@@ -9,10 +9,10 @@
   </font>
 </p>
 
-- 🎓 Pursuing my degree at **NIT Patna**
-- 💻 Deeply interested in **Full-Stack Development** and **Software Architecture**
-- 🚀 Always keen to collaborate on open-source projects and innovative tech initiatives
-- 🌱 Currently expanding my skill set in **scalable system design** and **Machine Learning**
+-  Pursuing my degree at **NIT Patna**
+-  Deeply interested in **Full-Stack Development** and **Software Architecture**
+-  Always keen to collaborate on open-source projects and innovative tech initiatives
+-  Currently expanding my skill set in **scalable system design** and **Machine Learning**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mastamardinaveen524@gmail.com) 
