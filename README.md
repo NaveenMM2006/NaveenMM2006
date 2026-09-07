@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <h1>
   <font face="Courier New" color="#3ECF8E">Hi there, I'm Naveen!</font>
 </h1>
